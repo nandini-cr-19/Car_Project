@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "make": "Hyundai",
+      "model": "i20",
+      "year": "2019",
+      "price": "550000",
+      "description": "Petrol, single owner"
+    },
+    {
+      "make": "Maruti",
+      "model": "Baleno",
+      "year": "2021",
+      "price": "700000",
+      "description": "Top model, alloy wheels"
+    }
+  ]
+}
